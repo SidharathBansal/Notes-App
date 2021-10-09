@@ -1,0 +1,12 @@
+var firebaseConfig = {
+      apiKey: "AIzaSyDy-1jveeagV7nQafMS5IpEKWeJ-SeWltM",
+      authDomain: "rn-3007.firebaseapp.com",
+      databaseURL: "https://rn-3007.firebaseio.com",
+      projectId: "rn-3007",
+      storageBucket: "rn-3007.appspot.com",
+      messagingSenderId: "191715295062",
+      appId: "1:191715295062:web:c157c5cfb77eed872820f7",
+      measurementId: "G-LVEP42WQL2"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
